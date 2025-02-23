@@ -10,6 +10,8 @@
 
   .hero_area {
     min-height: auto;
+    margin-top: 1rem;
+    z-index: -1;
   }
 
   .quote_btn-container a {
