@@ -60,8 +60,18 @@ permalink: /cv/
       <br>
       <div>
         <h2>Employment History</h2>
+        <ul style="list-style-position: inside;">
+          <h3>01/25 - Present - TUEG - Brazilian Religious Centre -> Volunteer Receptionist and Administrator</h3>
+          <li>Welcoming, registering and ticket assigning to visitors</li>
+          <li>Assistance queue control</li>
+          <li>Data quality & GDPR compliance</li>
+          <li>Newcomers registering and induction</li>
+          <li>Q&A; </li>
+          <li>Managing reception staff</li>
+          <li>Data Analytics using Google Sheets.</li>
+        </ul>
         <ul>
-          <h3>10/21 – Present	Sabbatical</h3>
+          <h3>10/21 – Sabbatical</h3>
           <p>I had to take some time off to look after my mother in her last few months with a debilitating heart condition. She passed away at the end of June. I also needed some time to deal with her passing paperwork and other affairs. I did not stay idle though. I took advantage of this time off work to have some refresher courses on Ruby, Ruby on Rails, TDD, HTML/CSS, JavaScript, amongst other skills.</p>
         </ul>
         <ul>
