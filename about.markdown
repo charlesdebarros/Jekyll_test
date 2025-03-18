@@ -4,9 +4,12 @@ title: About
 permalink: /about/
 ---
 
-<img src="/assets/images/cs_l4_bcamp_badge.png" style="display: block; margin: auto;"/>
-<!-- ![data_citizen_bootcamp_badge.png](/assets/images/cs_l4_bcamp_badge.png margin=auto) -->
-<p style="text-align: center;"><small>Level 4 Bootcamp Completion Badge</small></p>
+<!-- <img src="/assets/images/cs_l4_bcamp_badge.png" style="display: block; margin: auto;"/> -->
+
+
+
+<img src="/assets/images/cs_l4_data_anayst_skills_bootcamp_certificate.png" style="display: block; margin: auto; box-shadow: 0 0 15px #222;">
+<p style="text-align: center;"><small>Level 4 Bootcamp Completion Certificate</small></p>
 
 Hello and welcome.
 
