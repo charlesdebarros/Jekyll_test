@@ -38,7 +38,7 @@ I am highly motivated, like to take the initiative, and my thirst for learning n
 - WordPress, Joomla!
 - SQL, MySQL, PostgreSQL
 - Communication and Public Speaking
-- Portuguese-br and English native level.
+- Portuguese and English native level.
 - French beginners level.
 
 I am looking to obtain a Junior Data Analyst role, preferably remote or hybrid, where I can expand my current knowledge, learn new skills, and be exposed to good practices. 
@@ -49,7 +49,7 @@ I have a very communicative nature. I once presented a talk at the NADDI 2019 co
 
 See my GitHub profile at [here](https://github.com/charlesdebarros).
 
-You can see my CV [here](https://drive.google.com/file/d/1g0hMFuYBLzfolAMUdHY3qsKiaSeQzFj2/view?usp=sharing){:target="_blank"}.
+You can see my CV [here](https://drive.google.com/file/d/1otUWD_vmtGGu8lM2TWwYM517eH2UFMd3/view?usp=sharing){:target="_blank"}.
 
 
 
