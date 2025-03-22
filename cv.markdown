@@ -30,96 +30,76 @@ permalink: /cv/
       <br>
       <div class="personal-statement">
         <h2>Personal statement</h2>
-        <p>Web and software developer with an interest in Ruby, Rails and Object-Oriented Programming; also interested in Python, JavaScript frameworks, particularly AngularJS, React, and Vue; and Agile methodologies. I enjoy experimenting with new technologies and I strive to learn something new every day. My thirst for learning new things is my daily motivation. I aim to become a full stack developer. Opportunities to explore both back and front end development and taking part in all aspects of web development processes are what I am looking for. I am looking for great mentors and amazing managers.</p>
+        <p>I am a Junior Data Analyst with a profound interest in the fields of environmental sustainability, hospitality, technology, education, and science. My intellectual curiosity drives me to explore various perspectives and develop innovative solutions to complex challenges. I possess a well-organized, analytical, and logical mindset, characterized by meticulous attention to detail and an ability to recognize patterns. As a former web developer, I have expertise in SQL/PostgreSQL databases, Ruby and Ruby on Rails, Python, and JavaScript. I take pleasure in engaging with emerging technologies and am committed to continuous learning. I am highly motivated and proactive, with a strong dedication to enhancing my skills within the Data Analytics discipline. I seek opportunities to engage in data analysis projects and am eager to connect with exceptional mentors and inspiring managers.</p>
       </div>
       <br>
       <div>
-        <h2>Technical Skill</h2>
-        <p>I have been trained and skilled at, but not restricted to:</p>
+        <h2>Key Skill</h2>
         <ul>
-          <li>Python</li>
-          <li>Python libraries - Pandas, NumPy, MatPlotLib, Seaborn</li>
-          <li>SQL, MySQL, PostgreSQL</li>
-          <li>Business Intelligence - Power BI, Tableau</li>
-          <li>Microsoft Excel, Google Sheets, spreadsheets</li>
-          <li>Communication and Public Speaking</li>
-          <li>Problem-solving</li>
-          <li>Analytical mind </li>
-          <li>Strategic Planning and Data-based decisions</li>
-          <li>Power Query, Power Pivot, Pivot Tables</li>
-          <li>Microsoft Office, LibreOffice</li>
-          <li>HTML, CSS, SASS</li>
-          <li>Ruby, Rails</li>
-          <li>JavaScript and jQuery</li>
-          <li>Bootstrap and Tailwind</li>
-          <li>Git, Heroku, Jira</li>
-          <li>Portuguese-br and English native level.</li>
-          <li>French beginners level.</li>
+            <li>Business Intelligence - Power BI, Tableau</li>
+            <li>Python and Python Analytics Libraries</li>
+            <li>Pandas, NumPy, Matplotlib, Seaborn</li>
+            <li>SQL, PostgreSQL, MySQL, Databases</li>
+            <li>Microsoft Excel</li>
+            <li>Power Query, Power Pivot, Pivot Tables</li>
+            <li>Data visualisation</li>
+            <li>Analytical, Logical, and Critical thinking</li>
+            <li>Self-motivated with Initiative</li>
+            <li>Creative and Problem Solving</li>
+            <li>Communication and Public Speaking</li>
+            <li>Resourceful and Resilient</li>
         </ul>
       </div>
       <br>
       <div>
         <h2>Employment History</h2>
         <ul style="list-style-position: inside;">
-          <h3>01/25 - Present - TUEG - Brazilian Religious Centre -> Volunteer Receptionist and Administrator</h3>
-          <li>Welcoming, registering and ticket assigning to visitors</li>
-          <li>Assistance queue control</li>
-          <li>Data quality & GDPR compliance</li>
-          <li>Newcomers registering and induction</li>
-          <li>Q&A; </li>
-          <li>Managing reception staff</li>
-          <li>Data Analytics using Google Sheets.</li>
+          <h3>Jan 2025 – Present - TUEG - Brazilian Religious Centre -> Volunteer Receptionist Deputy Manager & Administrator</h3>
+          <p>As the Reception Deputy Manager, I train new volunteers and manage data using the Kanzua app and Google Sheets. I ensure data quality and GDPR compliance. Additionally, I welcome visitors, register them, assign ticket numbers, and provide inductions on health and safety regulations.</p>
         </ul>
         <ul>
-          <h3>10/21 – Sabbatical</h3>
-          <p>I had to take some time off to look after my mother in her last few months with a debilitating heart condition. She passed away at the end of June. I also needed some time to deal with her passing paperwork and other affairs. I did not stay idle though. I took advantage of this time off work to have some refresher courses on Ruby, Ruby on Rails, TDD, HTML/CSS, JavaScript, amongst other skills.</p>
+          <h3>Sep 2021 – Dec 2024 - Career Break</h3>
+          <p>Due to a terminal health issue in my family, I decided to take some time off to be with my mother until her passing. During this period, I enrolled in some web development courses on Udemy and joined the free Introduction to Computer Science course offered by Harvard University on edX.</p>
         </ul>
         <ul>
-          <h3>06/21 – 09/21 - BoilerJuice -> Full Stack Developer (Contract)</h3>
-          <p>I worked as a full stack developer responsible for developing, improving and maintaining BoilerJuice’s various applications. I mostly worked with their USA branch, developing a Supplier Portal where supplier would manage their orders/customers in the Northeast of the USA. Ruby on Rails, PostgreSQL, and Heroku, to name a few, made the tech stack used.</p>
+          <h3>Jun 2021 – Sep 2021 - BoilerJuice -> Full Stack Developer (Contract)</h3>
+          <p>Ruby on Rails developer working on a proof-of-concept project in the American heating oil market. Utilised Ruby on Rails, microservices, PostgreSQL, and continuous integration and deployment. Collaborated with senior sales representatives in Boston to gather insights into the American market.</p>
         </ul>
         <ul>
-          <h3>10/19 – 05/21 - Sabbatical</h3>
-          <p>I spent some time off dealing with some mental health, and family related issues</p>
+          <h3>Oct 2019 – May 2021 - Career Break</h3>
+          <p>I took some time off to address personal and family issues. I utilised the pandemic lockdown as an opportunity to expand my knowledge of working with SQL-oriented databases and building APIs.</p>
         </ul>
         <ul>
-          <h3>02/18 – 10/19 - UCL - The Institute of Education  ->  CLOSER Programmer</h3>
-          <p>I worked as a full stack developer responsible for developing, improving and maintaining Archivist, CLOSER’s application which manages various longitudinal datasets from various studies from 1930s to this day. Archivist is built on a Ruby on Rails backend with AngularJS frontend. Archivist has some parsers specially built for it to parse XML files and other dataset specific formats. It is also reliant on PostgreSQL, Redis, XML and various other libraries. Archivist has been developed as an Open-Source project and is hosted on Heroku.</p>
+          <h3>Feb 2018 – Oct 2019 - UCL - The Institute of Education  ->  CLOSER Programmer</h3>
+          <p>I developed, improved, and maintained “Archivist”, CLOSER’s longitudinal UK dataset management application. I established an Agile environment that facilitated regular planning, development, testing cycles, and feedback sessions. I cleaned and optimized the Archivist codebase, which resulted in a twofold increase in performance and speed. I also collaborated with Archivist users from various universities to gather and compile feedback on app usage. The enhanced performance of the application helped attract attention and increased funding for the project. </p>
         </ul>
         <ul>
-          <h3>05/17 – 08/17 - Amigo Partnership  ->  Junior Developer</h3>
-          <p>I worked as a Backend developer with Ruby on Rails creating efficient solutions for clients and researching for alternative solutions and technologies. Amongst the technologies used on a daily basis were PostgreSQL, Heroku, AWS/S3 and PayPal, Postman and Valentina Studio (a database GUI).</p>
+          <h3>May 2017 – Nov 2017 - Amigo Partnership  ->  Junior Developer</h3>
+          <p>Backend developer collaborating with various clients to deliver improvements, changes, and campaigns. Developed efficient, cost-effective solutions using Ruby on Rails, Heroku, PostgreSQL, APIs, and microservices. Communicated with clients and stakeholders to understand their needs and proposed creative solutions to their queries.</p>
         </ul>
         <ul>
-          <h3>01/16 – 03/17 - Creative Virtual  ->  Software and Development Technician</h3>
-          <p>I was a Frontend developer working with HTML, CSS, Bootstrap, JS, and jQuery, following clients’ specifications. I worked with development and repository control using Git, workflow follow-up with Jira; setting up and maintenance Apache/Tomcat including setting up reverse proxies and TLS/SSL certificates. Python, PHP, Java, and SQL scripting, Windows Server setting up and maintenance (2003, 2008, 2012) and overall network administration were also part of my duties. We worked on weekly basis sprints.</p>
+          <h3>Jan 2016 – Mar 2017 - Creative Virtual  ->  Software and Development Technician</h3>
+          <p>Full-stack developer experienced in working with HTML, CSS, Bootstrap, JavaScript, and jQuery, adhering to clients' specifications. I manage repository control using Git and conduct code reviews to ensure a smooth workflow. Additionally, I set up and maintain Apache Tomcat environments, including reverse proxies and TLS/SSL certificates. My technical skills also include Python, PHP, Java, SQL scripting, and network administration, with proficiency in Windows Server versions 2003, 2008, and 2012.</p>
         </ul>
         <ul>
-          <h3>04/15 – 07/15 - Evident Legal  ->  Junior Developer (Contract)</h3>
-          <p>I developed apps using HTML, CSS, JavaScript, AngularJS. My main project was to implement the Stripe payment system to the company’s website; this was to be achieved by the creating of an AngularJS directives. I worked with content management using Alfresco CMS. I was also asked to work on the optimisation of SEO friendly content.</p>
+          <h3>Apr 2015 – Nov 2015 - Evident Legal  ->  Junior Developer (Contract)</h3>
+          <p>Full-stack developer experienced in HTML, CSS, Bootstrap, JavaScript, and jQuery, working according to clients’ specifications. Proficient in repository management with Git, conducting code reviews, and managing workflow. Skilled in setting up and maintaining Apache Tomcat environments, including configuring reverse proxies and managing TLS/SSL certificates. Knowledgeable in Python, PHP, Java, SQL scripting, and Windows Server (2003, 2008, 2012), with a strong background in overall network administration. </p>
         </ul>
         <ul>
-          <h3>10/14 – 11/14 - QuiqUp  ->  Intern Junior Developer </h3>
-          <p>My intern project was on searching alternatives to replace Foursquare API used in the QuiqUp app. This was to be implemented using a Rails app parsing data from Google Maps API.</p>
+          <h3>Oct 2014 – Nov 2014 - QuiqUp (Intern Project)  ->  Intern Junior Developer </h3>
+          <p>I worked on an intern project focused on finding alternatives to the Foursquare API used in the QuiqUp app. During this process, I explored the Google Maps API for implementation in the company’s app for drivers and delivery staff. I successfully integrated Google Maps API access into the app, resulting in more reliable and efficient deliveries.</p>
         </ul>
         <ul>
-          <h3>10/11 – 12/13 - Walthamstow Academy  ->  Senior Network Engineer</h3>
-          <p>I provided support to users face to face and over the phone on issues with Microsoft Office XP, 2007/2010 suites. I managed and organised SpiceWorks, a helpdesk logging system.  I maintained and upgraded hardware (physical servers, desktops, laptops, cameras, to name a few). I set up, deployed and maintained VMWare and Veema environments. Managed and maintained a Panasonic Telephone system. I was the department’s deputy in the absence of our manager. As a side project, I developed webpages using HTML, CSS, jQuery, and Wordpress.</p>
+          <h3>Oct 2011 – Dec 2013 - Walthamstow Academy  ->  Senior Network Engineer</h3>
+          <p>Provided face-to-face and telephone support to users for issues related to Microsoft Office XP, 2007, and 2010 suites. I efficiently managed and organized the school's helpdesk logging system. I proactively maintained and upgraded hardware, including physical servers, desktops, laptops, and cameras. I expertly set up, deployed, and maintained VMware and Veeam virtual environments. I successfully managed and maintained the Panasonic telephone system. Additionally, I acted as the deputy in the absence of the IT Support Department manager. During the Academy’s summer holiday, I also instructed a two-week course titled "Introduction to Programming using Scratch" for Year 7 pupils. </p>
         </ul>
         <ul>
-          <h3>11/10 – 07/11 - Movement for Reform Judaism (contract)  ->  Network Support Analyst</h3>
-          <p>I provided support to users face to face and over the phone with issues with Microsoft Office XP and 2007 suite. I maintained various servers including DC/Exchange and Virtual Servers on VMware. I created and adapted scripts for over the network deployment/update of various applications, such as Adobe Reader, Flash player, Mozilla Firefox, VLC, to name a few, based on the WPKG project scripts. I managed user accounts for Helpdesk/Resources access. I help maintain our Joomla! based website.</p>
+          <h3>Nov 2010 – Jul 2011 - Movement for Reform Judaism (cover contract)  ->  Network Support Analyst</h3>
+          <p>Successfully covered for a Support Analyst on long-term sick leave. Managed the organization's IT servers, network infrastructure, and telephone systems with precision. Delivered first-line helpdesk support, effectively handled backup management, and oversaw equipment maintenance and replacement.</p>
         </ul>
         <ul>
-          <h3>03/10 – 09/10 - InPS – In Practice Systems (contract) -> Helpline Analyst</h3>
-          <p>I provided support to NHS surgeries and private practices with issues with Microsoft Exchange Server, Windows Server (00, 03 and 08), MSOffice (03, 07 and 10), including MS Outlook, Internet Explorer, McAfee antivirus, Symantec backup. I also provided general hardware support to printers, scanner, back-up tape decks, UPS, touch screens and displays. Part of my duties involved contacting and liaising with third-party companies to open logs and assign engineers to sites across the UK.</p>
-        </ul>
-        <ul>
-          <h3>09/07 - 04/09 - St. Anne’s Catholic High School for Girls, London -> Trainee English Teacher</h3>
-          <h3>01/05 - 08/07 - Highlands School, London -> Teaching Assistant</h3>
-          <h3>05/04 - 12/04 - Travelling</h3>
-          <h3>06/02 - 05/04 - Livanos Groups, USA -> Accounts Assistant</h3>
-          <h3>09/97 - 05/02 - VARIG – Brazilian Airlines, Brazil -> 1st Line Help-Desk Agent</h3>
+          <h3>Mar 2010 – Oct 2010 - InPS – In Practice Systems (contract) -> Helpline Analyst</h3>
+          <p>I provided helpdesk support to NHS General Practices in Scotland, Wales, and Northern Ireland. My responsibilities included supporting Windows Server 2003 and 2008 environments, as well as the Microsoft Office suite. I remotely resolved issues with computer equipment, software, printers, and networks. Additionally, I coordinated with local authorities to schedule and dispatch engineers for on-site hardware and software repairs or replacements. I also supported the InPS Vision application, which is used for managing daily tasks, prescription issuance, and appointments in General Practices.</p>
         </ul>
       </div>
       <br>
@@ -145,15 +125,13 @@ permalink: /cv/
       <div class="interests-achievements">
         <h2>Interests and Achievements</h2>
         <ul>
-          <li><strong>Computing:</strong> Linux OS (Fedora, Ubuntu, and Mint). I like puzzles and problem solving tasks. I am working my way up on <%= link_to 'CodeWars', "https://www.codewars.com" %>. I enjoy learning new things and I have taken a few courses on <%= link_to 'edX', "https://www.edx.org/" %>, <%= link_to 'Udemy', "https://www.udemy.com/" %> and <%= link_to 'Coursera', "https://www.coursera.org/" %>.</li>
-          <li><strong>Public Speaking: </strong>I represented CLOSER at <%= link_to 'EDDI 2018', "https://www.eddi-conferences.eu/eddi-2018/" %> in Berlin, and presented a talk at <%= link_to 'NADDI 2019', "http://naddiconf.org/2019/" %> in Ottawa, Canada.</li>
+          <li><strong>Computing:</strong> Linux (Fedora, Ubuntu, and Mint), MacOS, and Windows. I like puzzles and problem solving tasks. I enjoy learning new things and I have taken a few courses on <a href="https://www.edx.org/">edX</a>, <a href="https://www.udemy.com/">Udemy</a>, and <a href="https://www.coursera.org/">Coursera</a>.</li>
+          <li><strong>Public Speaking: </strong>I represented CLOSER at <a href="https://www.eddi-conferences.eu/eddi-2018/">EDDI 2018</a> in Berlin, and presented a talk at <a href="http://naddiconf.org/2019/">NADDI 2019</a> in Ottawa, Canada.</li>
           <li><strong>Hobbies:</strong> Filmmaking, photography, historical fiction, languages, baking</li>
           <li><strong>Language:</strong>  Native level Portuguese and English.</li>
         </ul>
       </div>
-      <br>
-    </div>
   </div>
 </div>
-
-### You can see my CV <strong>[here](https://drive.google.com/file/d/1g0hMFuYBLzfolAMUdHY3qsKiaSeQzFj2/view?usp=sharing){:target="_blank"}.</strong>
+<br>
+### You can see my CV <strong>[here](https://drive.google.com/file/d/1gDW-k1N0lXcj8qN0GAhAS3Ngdd_97Y8s/view?usp=sharing){:target="_blank"}.</strong>
