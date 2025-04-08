@@ -5,7 +5,7 @@
 //     document.querySelector("#displayYear").innerHTML = currentYear;
 // }
 
-getYear();
+// getYear();
 
 
 $('.custom_slick_slider').slick({
