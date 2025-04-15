@@ -11,11 +11,12 @@ source "https://rubygems.org"
 # Happy Jekylling!
 # gem "jekyll", "~> 4.3.4"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima"
+# gem "minima"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", "~> 232", group: :jekyll_plugins
 # If you have any plugins, put them here!
+
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end
@@ -27,12 +28,15 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
-# Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
-
 # https://rubygems.org/gems/faraday-retry
 gem 'faraday-retry', '~> 2.2', '>= 2.2.1'
+
+# https://rubygems.org/gems/fiddle
+gem 'fiddle', '~> 1.1', '>= 1.1.6'
 
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
+
+# Performance-booster for watching directories on Windows
+gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
